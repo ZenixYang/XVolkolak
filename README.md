@@ -1,6 +1,6 @@
 # XVolkolak for Windows
 
-###     Usage of XVolkolak
+###     Usage of XVolkolak:
 
 Scan – scan a file for Packer/Protector information.
 
@@ -17,7 +17,7 @@ Change if necessary OEP and Import
 
 Press Unpack
 
-###   XVolkolak Description
+###   XVolkolak Description:
 
 XVolkolak is an unpacker emulator
 
@@ -42,7 +42,7 @@ and some others.
 The version of the program with the possibility of unpacking commercial protectors (such as VMProtect, ASProtect and others) will not appear in the public domain for obvious reasons.
 
 
-###     Console version of XVolkolak
+###     Console version of XVolkolak:
 
 There is also console version of program (xvlkc.exe). It’s in the folder "base"
 xvlkc.exe –S <filename> scan a file
