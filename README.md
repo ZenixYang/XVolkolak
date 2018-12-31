@@ -1,4 +1,4 @@
-# XVolkolak for Windows
+# XVolkolak for Windows, Linux, Mac OSX
 
 ###     Usage of XVolkolak:
 
